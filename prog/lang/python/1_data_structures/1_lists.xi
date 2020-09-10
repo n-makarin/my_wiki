@@ -4,6 +4,8 @@
 * 2. [#Cases]
 * 3. [#Using Lists as Stacks]
 * 4. [#Using Lists as Queues]
+* 5. [#List Comprehensions]
+* 6. [#Nested List Comprehensions]
 
 . `References:`
   [https://docs.python.org/3/tutorial/datastructures.html#more-on-lists]
@@ -176,3 +178,57 @@
 | >>> 'John'
 | queue
 | >>> deque(['Michael', 'Terry', 'Graham'])
+
+5.[List Comprehensions#] .
+. List comprehensions provide a concise way to create lists.
+
+. Create list with decimal values
+  |{lng:py}
+  | squares = [x**2 for x in range(10)]
+  | >>> [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+
+. Create a new list with the values doubled
+  |{lng:py}
+  | vec = [-4, -2, 0, 2, 4]
+  | [x*2 for x in vec]
+  | >>> [-8, -4, 0, 4, 8]
+
+. Filter the list to exclude negative numbers
+  |{lng:py}
+  | vec = [-4, -2, 0, 2, 4]
+  | [x for x in vec if x >= 0]
+  | >>> [0, 2, 4]
+
+. Call a method on each element
+  |{lng:py}
+  | freshfruit = ['  banana', '  loganberry ', 'passion fruit  ']
+  | [weapon.strip() for weapon in freshfruit]
+  | >>> ['banana', 'loganberry', 'passion fruit']
+
+. Create a list of 2-tuples like
+  |{lng:py}
+  | [(x, x**2) for x in range(6)]
+  | >>> [(0, 0), (1, 1), (2, 4), (3, 9), (4, 16), (5, 25)]
+
+. Flatten a list using a listcomp with two 'for'
+  |{lng:py}
+  | vec = [[1,2,3], [4,5,6], [7,8,9]]
+  | [num for elem in vec for num in elem]
+  | >>> [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+6.[Nested List Comprehensions#] .
+
+. Transpose rows and columns
+  |{lng:py}
+  | matrix = [
+  |     [1, 2, 3, 4],
+  |     [5, 6, 7, 8],
+  |     [9, 10, 11, 12],
+  | ]
+  | [[row[i] for row in matrix] for i in range(4)]
+  | >>> [[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]
+
+. The result above can be given with built-in function
+  |{lng:py}
+  | list(zip(*matrix))
+  | >>> [(1, 5, 9), (2, 6, 10), (3, 7, 11), (4, 8, 12)]
