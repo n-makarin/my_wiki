@@ -1,23 +1,28 @@
 |Lists|
 
-# 1. [#Methods]
-# 2. [#Cases]
+* 1. [#Methods]
+* 2. [#Cases]
+* 3. [#Using Lists as Stacks]
+* 4. [#Using Lists as Queues]
+
+. `References:`
+  [https://docs.python.org/3/tutorial/datastructures.html#more-on-lists]
 
 . |{lng:py}
   | squares = [1, 4, 9, 16, 25]
 
 1.[Methods#] .
-# [#append]
-# [#extend]
-# [#insert]
-# [#remove]
-# [#pop]
-# [#clear]
-# [#index]
-# [#count]
-# [#sort]
-# [#reverse]
-# [#copy]
+* [#append]
+* [#extend]
+* [#insert]
+* [#remove]
+* [#pop]
+* [#clear]
+* [#index]
+* [#count]
+* [#sort]
+* [#reverse]
+* [#copy]
 
 * `.append(x)`[append#]
   Add an item to the end of the list
@@ -145,3 +150,29 @@
   | x = [a, n]
   | x
   | >>> [['a', 'b', 'c'], [1, 2, 3]]
+
+3.[Using Lists as Stacks#] .
+. |{lng:py}
+| stack = [3, 4, 5]
+| stack.append(6)
+| stack.append(7)
+| stack.pop()
+| stack.pop()
+| >>> [3, 4, 5]
+
+4.[Using Lists as Queues#] .
+. To implement a queue, use `collections.deque` which was designed 
+  to have fast appends and pops from both ends
+  [https://docs.python.org/3/library/collections.html#collections.deque]
+
+. |{lng:py}
+| from collections import deque
+| queue = deque(["Eric", "John", "Michael"])
+| queue.append("Terry")
+| queue.append("Graham")
+| queue.popleft() 
+| >>> 'Eric'
+| queue.popleft() 
+| >>> 'John'
+| queue
+| >>> deque(['Michael', 'Terry', 'Graham'])
