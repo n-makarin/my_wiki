@@ -6,6 +6,7 @@
 * 4. [#Using Lists as Queues]
 * 5. [#List Comprehensions]
 * 6. [#Nested List Comprehensions]
+* 7. [#The del statement]
 
 . `References:`
   [https://docs.python.org/3/tutorial/datastructures.html#more-on-lists]
@@ -232,3 +233,18 @@
   |{lng:py}
   | list(zip(*matrix))
   | >>> [(1, 5, 9), (2, 6, 10), (3, 7, 11), (4, 8, 12)]
+
+7.[The del statement#] .
+
+. Remove slices from a list
+  |{lng:py}
+  | a = [-1, 1, 66.25, 333, 333, 1234.5]
+  | del a[0]
+  | del a[2:4]
+  | >>> [1, 66.25, 1234.5]
+
+. Delete entire variable
+  |{lng:py}
+  | del a
+  | a
+  | >>> NameError: name 'a' is not defined
