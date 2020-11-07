@@ -6,4 +6,4 @@
 * ❗️ error
 
 ## Definitions
-* <u>Unsigned</u> － only positive numbers<br>
+* <ins>Unsigned</ins> － only positive numbers<br>

@@ -19,9 +19,9 @@ Length  | Signed | Unsigned
 128-bit | i128   | u128
 arch    | isize  | usize
 <br>
-<u>Signed</u> － may be negative <br>
-<u>Unsigned</u> － only positive numbers<br>
-<u>isize, usize</u> － will store 64b bits on 64-bit architecture <br>
+<ins>Signed</ins> － may be negative <br>
+<ins>Unsigned</ins> － only positive numbers<br>
+<ins>isize, usize</ins> － will store 64b bits on 64-bit architecture <br>
 and 32 bits if you’re on a 32-bit architecture.<br><br>
 
 Each variable may store numbers in range:
