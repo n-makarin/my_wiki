@@ -112,3 +112,48 @@ fn main() {
     let tup: (i32, f64, u8) = (500, 6.4, 1);
 }
 ```
+
+Destructure a tuple value:
+```rust
+fn main() {
+    let tup = (500, 6.4, 1);
+
+    let (x, y, z) = tup;
+
+    println!("The value of y is: {}", y);
+}
+```
+
+We can access a tuple element directly by using a period (.):
+```rust
+fn main() {
+    let x: (i32, f64, u8) = (500, 6.4, 1);
+
+    let five_hundred = x.0;
+
+    let six_point_four = x.1;
+
+    let one = x.2;
+}
+```
+<br>
+
+---
+### The Array Type
+
+Every element of an array must have the same type. <br>
+Arrays have a fixed length.
+
+```rust
+let a: [i32; 5] = [1, 2, 3, 4, 5];
+```
+
+Array that contains the same value for each element
+```rust
+let a = [3; 5]; //[3, 3, 3, 3, 3]
+```
+
+```rust
+let first = a[0];
+let second = a[1];
+```
