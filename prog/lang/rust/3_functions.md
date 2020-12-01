@@ -10,6 +10,7 @@ fn another_function(x: i32) {
     println!("The value of x is: {}", x);
 }
 ```
+<br>
 
 The block that we use to create new scopes, `{}`, is an expression, for example:
 ```rust
@@ -24,6 +25,7 @@ fn main() {
     println!("The value of y is: {}", y);
 }
 ```
+<br>
 
 Here’s an example of a function that returns a value:
 ```rust
@@ -37,8 +39,9 @@ fn main() {
     println!("The value of x is: {}", x);
 }
 ```
+<br>
 
-Note we don't place a semicolon an the end of the expressions:
+❗️ Note we don't place a semicolon an the end of the expressions:
 ```rust
 fn main() {
     let x = plus_one(5);

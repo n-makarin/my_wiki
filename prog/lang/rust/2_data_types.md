@@ -112,6 +112,7 @@ fn main() {
     let tup: (i32, f64, u8) = (500, 6.4, 1);
 }
 ```
+<br>
 
 Destructure a tuple value:
 ```rust
@@ -123,6 +124,7 @@ fn main() {
     println!("The value of y is: {}", y);
 }
 ```
+<br>
 
 We can access a tuple element directly by using a period (.):
 ```rust
@@ -147,6 +149,7 @@ Arrays have a fixed length.
 ```rust
 let a: [i32; 5] = [1, 2, 3, 4, 5];
 ```
+<br>
 
 Array that contains the same value for each element
 ```rust

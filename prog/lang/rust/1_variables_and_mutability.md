@@ -5,6 +5,7 @@ Variables are immutable by default.
 ```rust
 let foo = bar
 ```
+<br>
 
 To make it mutable use `mut` statement:
 ```rust
@@ -28,6 +29,7 @@ Difference between mut and shadowing is that because we’re effectively creatin
 let spaces = "   ";
 let spaces = spaces.len();
 ```
+<br>
 
 ❗️ don't use shadowing with `mut` variables
 ```rust
