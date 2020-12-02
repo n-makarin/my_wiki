@@ -1,9 +1,11 @@
 # Wiki
 
 ## Markers
-* 🔹 important
-* 🔸 warning
-* ❗️ error
+
+- 🔹 important
+- 🔸 warning
+- ❗️ error
 
 ## Definitions
-* <ins>Unsigned</ins> － only positive numbers<br>
+
+- **Unsigned** － only positive numbers<br>
