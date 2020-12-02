@@ -22,6 +22,3 @@
   `cargo clippy`
 
 <br>
-
-## Refs
-[Cargo documentation](https://doc.rust-lang.org/cargo/)
