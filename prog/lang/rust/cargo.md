@@ -1,11 +1,15 @@
-- [Built-in commands](#built-in-commands)
-- [Components](#components)
-  - [rust-fmt](#rust-fmt)
-  - [rust-clippy](#rust-clippy)
+# Cargo
 
-<br>
+## Table of Contents
 
-# Built-in commands
+- [Cargo](#cargo)
+  - [Table of Contents](#table-of-contents)
+  - [Built-in commands](#built-in-commands)
+  - [Components](#components)
+    - [rust-fmt](#rust-fmt)
+    - [rust-clippy](#rust-clippy)
+
+## Built-in commands
 
 - `cargo new <project_name>`
 - `cargo build`
@@ -14,20 +18,16 @@
 - `cargo build —release`
 - `cargo doc --open`
 
-<br>
+## Components
 
-# Components
-
-## [rust-fmt](https://github.com/rust-lang/rustfmt)
+### [rust-fmt](https://github.com/rust-lang/rustfmt)
 
 - `rustup component add rustfmt`
 
   `cargo fmt`
 
-## [rust-clippy](https://github.com/rust-lang/rust-clippy)
+### [rust-clippy](https://github.com/rust-lang/rust-clippy)
 
 - `rustup component add clippy`
 
   `cargo clippy`
-
-<br>
