@@ -1,6 +1,6 @@
 # 1. Common programming concepts
 
-/ [index](/index.md) / [prog](/prog/index.md) / [lang](/prog/lang/index.md) / [rust](/prog/lang/rust/index.md) / [1. Common programming concepts](/prog/lang/rust/1_common_programming_concepts/index.md)
+/ [home](/README.md) / [prog](/prog/README.md) / [lang](/prog/lang/README.md) / [rust](/prog/lang/rust/README.md) / [1. Common programming concepts](/prog/lang/rust/1_common_programming_concepts/README.md)
 
 ## Contents
 
