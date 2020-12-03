@@ -1,7 +1,7 @@
 # 1. Ownership
 
-/ [index](/docs/index.md) / [prog](/docs/prog/index.md) / [lang](/docs/prog/lang/index.md) / [rust](/docs/prog/lang/rust/index.md) / [2. Ownership](/docs/prog/lang/rust/2_ownership/index.md)
+/ [index](/index.md) / [prog](/prog/index.md) / [lang](/prog/lang/index.md) / [rust](/prog/lang/rust/index.md) / [2. Ownership](/prog/lang/rust/2_ownership/index.md)
 
 ## Contents
 
-- [2.1. What is ownership](/docs/prog/lang/rust/2_ownership/2.1_what_is_ownership.md)
+- [2.1. What is ownership](/prog/lang/rust/2_ownership/2.1_what_is_ownership.md)

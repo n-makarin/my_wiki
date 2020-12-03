@@ -1,7 +1,7 @@
 # Prog
 
-/ [index](/docs/index.md) / [prog](/docs/prog/index.md)
+/ [index](/index.md) / [prog](/prog/index.md)
 
 ## Contents
 
-- [Lang](/docs/prog/lang/index.md)
+- [Lang](/prog/lang/index.md)

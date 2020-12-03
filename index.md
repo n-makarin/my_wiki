@@ -1,6 +1,6 @@
 # Wiki
 
-/ [index](/docs/index.md)
+/ [index](/index.md)
 
 ## Table Of Contents
 
@@ -11,9 +11,9 @@
 
 ## Contents
 
-- [prog](/docs/prog/index.md)
-  - [lang](/docs/prog/lang/index.md)
-    - [rust](/docs/prog/lang/rust/index.md)
+- [prog](/prog/index.md)
+  - [lang](/prog/lang/index.md)
+    - [rust](/prog/lang/rust/index.md)
 
 ## Markers
 

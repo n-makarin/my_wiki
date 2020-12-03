@@ -1,7 +1,7 @@
 # Lang
 
-/ [index](/docs/index.md) / [prog](/docs/prog/index.md) / [lang](/docs/prog/lang/index.md)
+/ [index](/index.md) / [prog](/prog/index.md) / [lang](/prog/lang/index.md)
 
 ## Contents
 
-- [rust](/docs/prog/lang/rust/index.md)
+- [rust](/prog/lang/rust/index.md)
