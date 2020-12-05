@@ -1,5 +1,7 @@
 # Cargo
 
+/ [home](/README.md) / [prog](/prog/README.md) / [lang](/prog/lang/README.md) / [rust](/prog/lang/rust/README.md) / [Cargo](/prog/lang/rust/cargo.md)
+
 ## Table of Contents
 
 - [Cargo](#cargo)
