@@ -4,4 +4,4 @@
 
 ## Contents
 
-- [3.1. Defining and Instantiating Structs](/prog/lang/rust/3_structs/3.1_defining_and_instantiating_structs.md)
+- [3.1. Defining and Instantiating Structs](/prog/lang/rust/3_structs/3_1_defining_and_instantiating_structs.md)

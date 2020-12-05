@@ -1,6 +1,6 @@
 # The Slice Type
 
-/ [home](/README.md) / [prog](/prog/README.md) / [lang](/prog/lang/README.md) / [rust](/prog/lang/rust/README.md) / [2. Ownership](/prog/lang/rust/2_ownership/README.md) / [2.3. The Slice Type](/prog/lang/rust/2_ownership/2.3_the_slice_type.md)
+/ [home](/README.md) / [prog](/prog/README.md) / [lang](/prog/lang/README.md) / [rust](/prog/lang/rust/README.md) / [2. Ownership](/prog/lang/rust/2_ownership/README.md) / [2.3. The Slice Type](/prog/lang/rust/2_ownership/2_3_the_slice_type.md)
 
 ## Table of Contents
 

@@ -13,17 +13,17 @@
 ## Contents
 
 - [1. Common programming concepts](/prog/lang/rust/1_common_programming_concepts/README.md)
-  - [1.1. Variables and mutability](/prog/lang/rust/1_common_programming_concepts/1.1_variables_and_mutability.md)
-  - [1.2. Data types](/prog/lang/rust/1_common_programming_concepts/1.2_data_types.md)
-  - [1.3. Functions](/prog/lang/rust/1_common_programming_concepts/1.3_functions.md)
-  - [1.4. Comments](/prog/lang/rust/1_common_programming_concepts/1.4_comments.md)
-  - [1.5. Control flow](/prog/lang/rust/1_common_programming_concepts/1.5_control_flow.md)
+  - [1.1. Variables and mutability](/prog/lang/rust/1_common_programming_concepts/1_1_variables_and_mutability.md)
+  - [1.2. Data types](/prog/lang/rust/1_common_programming_concepts/1_2_data_types.md)
+  - [1.3. Functions](/prog/lang/rust/1_common_programming_concepts/1_3_functions.md)
+  - [1.4. Comments](/prog/lang/rust/1_common_programming_concepts/1_4_comments.md)
+  - [1.5. Control flow](/prog/lang/rust/1_common_programming_concepts/1_5_control_flow.md)
 - [2. Ownership](/prog/lang/rust/2_ownership/README.md)
-  - [2.1. What is ownership](/prog/lang/rust/2_ownership/2.1_what_is_ownership.md)
-  - [2.2. References and Borrowing](/prog/lang/rust/2_ownership/2.2_references_and_borrowing.md)
-  - [2.3. The Slice Type](/prog/lang/rust/2_ownership/2.3_the_slice_type.md)
+  - [2.1. What is ownership](/prog/lang/rust/2_ownership/2_1_what_is_ownership.md)
+  - [2.2. References and Borrowing](/prog/lang/rust/2_ownership/2_2_references_and_borrowing.md)
+  - [2.3. The Slice Type](/prog/lang/rust/2_ownership/2_3_the_slice_type.md)
 - [3. Structs](/prog/lang/rust/3_structs/README.md)
-  - [3.1. Defining and Instantiating Structs](/prog/lang/rust/3_structs/3.1_defining_and_instantiating_structs.md)
+  - [3.1. Defining and Instantiating Structs](/prog/lang/rust/3_structs/3_1_defining_and_instantiating_structs.md)
 - [Cargo](/prog/lang/rust/cargo.md)
 
 ## Refs

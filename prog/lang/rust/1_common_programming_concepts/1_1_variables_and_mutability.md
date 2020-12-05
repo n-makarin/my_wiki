@@ -1,6 +1,6 @@
 # Variables and mutability
 
-/ [home](/README.md) / [prog](/prog/README.md) / [lang](/prog/lang/README.md) / [rust](/prog/lang/rust/README.md) / [1. Common programming concepts](/prog/lang/rust/1_common_programming_concepts/README.md) / [1.1. Variables and mutability](/prog/lang/rust/1_common_programming_concepts/1.1_variables_and_mutability.md)
+/ [home](/README.md) / [prog](/prog/README.md) / [lang](/prog/lang/README.md) / [rust](/prog/lang/rust/README.md) / [1. Common programming concepts](/prog/lang/rust/1_common_programming_concepts/README.md) / [1.1. Variables and mutability](/prog/lang/rust/1_common_programming_concepts/1_1_variables_and_mutability.md)
 
 ## Table of Contents
 

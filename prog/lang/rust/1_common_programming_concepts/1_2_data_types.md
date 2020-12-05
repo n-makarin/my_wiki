@@ -1,6 +1,6 @@
 # Data types
 
-/ [home](/README.md) / [prog](/prog/README.md) / [lang](/prog/lang/README.md) / [rust](/prog/lang/rust/README.md) / [1. Common programming concepts](/prog/lang/rust/1_common_programming_concepts/README.md) / [1.2. Data types](/prog/lang/rust/1_common_programming_concepts/1.2_data_types.md)
+/ [home](/README.md) / [prog](/prog/README.md) / [lang](/prog/lang/README.md) / [rust](/prog/lang/rust/README.md) / [1. Common programming concepts](/prog/lang/rust/1_common_programming_concepts/README.md) / [1.2. Data types](/prog/lang/rust/1_common_programming_concepts/1_2_data_types.md)
 
 ## Table of Contents
 
@@ -87,7 +87,7 @@ fn main() {
     let product = 4 * 30;
 
     // division
-    let quotient = 56.7 / 32.2;
+    let quotient = 56.7 / 32_2;
 
     // remainder
     let remainder = 43 % 5;

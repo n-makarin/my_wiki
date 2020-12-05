@@ -1,6 +1,6 @@
 # Control flow
 
-/ [home](/README.md) / [prog](/prog/README.md) / [lang](/prog/lang/README.md) / [rust](/prog/lang/rust/README.md) / [1. Common programming concepts](/prog/lang/rust/1_common_programming_concepts/README.md) / [1.5. Control flow](/prog/lang/rust/1_common_programming_concepts/1.5_control_flow.md)
+/ [home](/README.md) / [prog](/prog/README.md) / [lang](/prog/lang/README.md) / [rust](/prog/lang/rust/README.md) / [1. Common programming concepts](/prog/lang/rust/1_common_programming_concepts/README.md) / [1.5. Control flow](/prog/lang/rust/1_common_programming_concepts/1_5_control_flow.md)
 
 ## Table of Contents
 

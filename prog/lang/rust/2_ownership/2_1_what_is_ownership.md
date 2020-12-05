@@ -1,6 +1,6 @@
 # What is ownership
 
-/ [home](/README.md) / [prog](/prog/README.md) / [lang](/prog/lang/README.md) / [rust](/prog/lang/rust/README.md) / [2. Ownership](/prog/lang/rust/2_ownership/README.md) / [2.1. What is ownership](/prog/lang/rust/2_ownership/2.1_what_is_ownership.md)
+/ [home](/README.md) / [prog](/prog/README.md) / [lang](/prog/lang/README.md) / [rust](/prog/lang/rust/README.md) / [2. Ownership](/prog/lang/rust/2_ownership/README.md) / [2.1. What is ownership](/prog/lang/rust/2_ownership/2_1_what_is_ownership.md)
 
 ## Table of Contents
 

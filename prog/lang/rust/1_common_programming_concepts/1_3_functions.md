@@ -1,6 +1,6 @@
 # Functions
 
-/ [home](/README.md) / [prog](/prog/README.md) / [lang](/prog/lang/README.md) / [rust](/prog/lang/rust/README.md) / [1. Common programming concepts](/prog/lang/rust/1_common_programming_concepts/README.md) / [1.3. Functions](/prog/lang/rust/1_common_programming_concepts/1.3_functions.md)
+/ [home](/README.md) / [prog](/prog/README.md) / [lang](/prog/lang/README.md) / [rust](/prog/lang/rust/README.md) / [1. Common programming concepts](/prog/lang/rust/1_common_programming_concepts/README.md) / [1.3. Functions](/prog/lang/rust/1_common_programming_concepts/1_3_functions.md)
 
 Rust doesn’t care where you define your functions.
 
