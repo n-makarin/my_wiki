@@ -24,6 +24,7 @@
   - [2.3. The Slice Type](/prog/lang/rust/2_ownership/2_3_the_slice_type.md)
 - [3. Structs](/prog/lang/rust/3_structs/README.md)
   - [3.1. Defining and Instantiating Structs](/prog/lang/rust/3_structs/3_1_defining_and_instantiating_structs.md)
+  - [3.2. Methods](/prog/lang/rust/3_structs/3_2_methods.md)
 - [Cargo](/prog/lang/rust/cargo.md)
 
 ## Refs
