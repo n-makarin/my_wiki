@@ -22,6 +22,8 @@
   - [2.1. What is ownership](/prog/lang/rust/2_ownership/2.1_what_is_ownership.md)
   - [2.2. References and Borrowing](/prog/lang/rust/2_ownership/2.2_references_and_borrowing.md)
   - [2.3. The Slice Type](/prog/lang/rust/2_ownership/2.3_the_slice_type.md)
+- [3. Structs](/prog/lang/rust/3_structs/README.md)
+  - [3.1. Defining and Instantiating Structs](/prog/lang/rust/3_structs/3.1_defining_and_instantiating_structs.md)
 - [Cargo](/prog/lang/rust/cargo.md)
 
 ## Refs

@@ -1,4 +1,4 @@
-# 1. Ownership
+# 2. Ownership
 
 / [home](/README.md) / [prog](/prog/README.md) / [lang](/prog/lang/README.md) / [rust](/prog/lang/rust/README.md) / [2. Ownership](/prog/lang/rust/2_ownership/README.md)
 
