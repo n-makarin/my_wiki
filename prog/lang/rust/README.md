@@ -25,6 +25,8 @@
 - [3. Structs](/prog/lang/rust/3_structs/README.md)
   - [3.1. Defining and Instantiating Structs](/prog/lang/rust/3_structs/3_1_defining_and_instantiating_structs.md)
   - [3.2. Methods](/prog/lang/rust/3_structs/3_2_methods.md)
+- [4. Enums and Pattern Matching](/prog/lang/rust/4_enums_and_pattern_matching/README.md)
+  - [4.1. Defining an Enum](/prog/lang/rust/4_enums_and_pattern_matching/4_1_defining_an_enum.md)
 - [Cargo](/prog/lang/rust/cargo.md)
 
 ## Refs
