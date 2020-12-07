@@ -30,6 +30,7 @@
   - [4.2. The match Control Flow Operator](/prog/lang/rust/4_enums_and_pattern_matching/4_2_the_match_control_flow_operator.md)
   - [4.3. Concise Control Flow with if let](/prog/lang/rust/4_enums_and_pattern_matching/4_3_concise_control_flow_with_if_let.md)
 - [5. Managing Growing Projects](/prog/lang/rust/5_managing_growing_projects/README.md)
+  - [5.1. Packages and Crates](/prog/lang/rust/5_managing_growing_projects/5_1_packages_and_crates.md)
 - [Cargo](/prog/lang/rust/cargo.md)
 
 ## Refs

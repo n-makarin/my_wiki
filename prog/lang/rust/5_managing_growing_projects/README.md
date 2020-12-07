@@ -12,3 +12,5 @@ These features, sometimes collectively referred to as the module system, include
 - **Paths**: A way of naming an item, such as a struct, function, or module
 
 ## Contents
+
+- [5.1. Packages and Crates](/prog/lang/rust/5_managing_growing_projects/5_1_packages_and_crates.md)
