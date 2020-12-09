@@ -15,3 +15,4 @@ These features, sometimes collectively referred to as the module system, include
 
 - [5.1. Packages and Crates](/prog/lang/rust/5_managing_growing_projects/5_1_packages_and_crates.md)
 - [5.2. Defining Modules](/prog/lang/rust/5_managing_growing_projects/5_2_defining_modules.md)
+- [5.2. Paths](/prog/lang/rust/5_managing_growing_projects/5_3_paths.md)
