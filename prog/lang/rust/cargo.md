@@ -14,6 +14,7 @@
 ## Built-in commands
 
 - `cargo new <project_name>`
+- `cargo new --lib <project_name>`
 - `cargo build`
 - `cargo run`
 - `cargo check`
